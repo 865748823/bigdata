@@ -1,0 +1,6 @@
+java,mysql,hadoop
+hadoop,hbase,java
+hive,python,mysql
+scala,json
+hbase,hadoop,hive
+json,hadoop,python
